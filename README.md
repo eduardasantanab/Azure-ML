@@ -9,7 +9,7 @@ Para isso foi utilizada a base de dados do Kaggle: https://www.kaggle.com/datase
 ## Análise do primeiro texto:
 <img src="print_processo/exemplo01.png"/>
 Figura 1: após as configurações iniciais, que incluem a base de dados e registra o resource no ambiente Azure.
-#
+# .
 <img src="print_processo/exemplo02.png"/>
 Figura 2: indica que a base de dados foi incluida e configurada com sucesso.
 #
