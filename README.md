@@ -1,1 +1,1 @@
-# reconhecimento_facial_ML
+# azure_ml
